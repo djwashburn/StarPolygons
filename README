@@ -1,0 +1,8 @@
+Copyright 2014, Daniel Washburn CC-BY (http://creativecommons.org/licenses/by/4.0/)
+
+This project draws a star polygon of an arbitrary Schlafli symbol 
+(http://en.wikipedia.org/wiki/Star_polygon), including composite stars such as the 
+star with symbol {6/2} or 2{3}, commonly known as the Star of David or hexagram. It
+requires pygame in its current implementation, and in future iterations (if/when I 
+get around to them) should be able to draw to a wxPython screen with GUI interaction
+instead, and perhaps other types of canvas as well.
